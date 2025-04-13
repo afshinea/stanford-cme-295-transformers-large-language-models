@@ -1,10 +1,10 @@
-# 斯坦福大学 CME 295 课程：Transformer 与大型语言模型速查表 
+# 斯坦福大学 CME 295 课程：Transformer 与大语言模型速查表 
 可用语言：[English](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/en) - [Español](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/es) - [Français](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/fr) - [日本語](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/ja) - [Türkçe](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/tr) - **中文**
 
 ## 目标
-本仓库旨在集中汇总斯坦福大学 CME 295 “Transformer 与大型语言模型”课程所涵盖的所有核心概念。其内容包括：
+本仓库旨在集中汇总斯坦福大学 CME 295 “Transformer 与大语言模型”课程所涵盖的所有核心概念。其内容包括：
 - **Transformer**：自注意力机制、架构、变体、优化技术（如稀疏注意力、低秩注意力、Flash Attention）
-- **大型语言模型 (LLM)**：提示 (prompting)、微调（SFT、LoRA）、偏好调优、优化技术（混合专家模型、知识蒸馏、量化）
+- **大语言模型 (LLM)**：提示 (prompting)、微调（SFT、LoRA）、偏好调优、优化技术（混合专家模型、知识蒸馏、量化）
 - **应用**：LLM 作为评判者、检索增强生成 (RAG)、智能体、推理模型（来自 DeepSeek-R1 的训练时与测试时缩放技术）
 
 ## 内容
@@ -21,4 +21,4 @@
 [Afshine Amidi](https://www.linkedin.com/in/afshineamidi/) (巴黎中央理工学院, 麻省理工学院) 和 [Shervine Amidi](https://www.linkedin.com/in/shervineamidi/) (巴黎中央理工学院, 斯坦福大学)
 
 ## 译者
-Tao Yu（俞涛）和 Binbin Xiong（熊斌斌）
+[Tao Yu（俞涛）](https://www.linkedin.com/in/taoyucmu/) 和 [Binbin Xiong（熊斌斌）](https://www.linkedin.com/in/binbin-xiong-51ab8a43/)
