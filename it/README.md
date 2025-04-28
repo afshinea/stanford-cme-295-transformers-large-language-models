@@ -21,4 +21,4 @@ Questo cheatsheet VIP fornisce una panoramica del contenuto del libro “Super S
 [Afshine Amidi](https://www.linkedin.com/in/afshineamidi/) (Ecole Centrale Paris, MIT) e [Shervine Amidi](https://www.linkedin.com/in/shervineamidi/) (Ecole Centrale Paris, Università di Stanford)
 
 ## Traduttore
-Gianluca Guzzetta (PoliTO, UniSalento) 
+[Gianluca Guzzetta](https://www.linkedin.com/in/gianluca-guzzetta-1a778015b/) (PoliTO, UniSalento) 
